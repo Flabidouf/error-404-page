@@ -85,7 +85,7 @@ body {
   
     position: absolute;
     top: 83%;
-    left: 43%;
+    left: 39%;
     text-decoration: none;
     font-family: 'spaceMonkeyBold';
     color:white;
@@ -143,7 +143,7 @@ body {
     background:rgba(0,0,0,0.2);
     box-shadow:0 0 0px 3px rgba(0,0,0,0.2);
     opacity:0.4
-    
+
 }#btn-git:hover{
     color:#fff;
     opacity:1
