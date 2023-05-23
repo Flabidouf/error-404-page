@@ -11,7 +11,7 @@ html,body{
 body {
     background: #112 url(cyberpunkcity1.jpg)  center no-repeat;
     background-size:cover;
-    margin:0
+    margin:0 ;
 }
 .logo {
     text-align: center;
@@ -142,10 +142,10 @@ body {
     margin:0 auto;
     background:rgba(0,0,0,0.2);
     box-shadow:0 0 0px 3px rgba(0,0,0,0.2);
-    opacity:0.4
-
-}#btn-git:hover{
+    opacity:0.4;
+    }
+#btn-git:hover{
     color:#fff;
-    opacity:1
+    opacity:1;
 }
 
