@@ -1,3 +1,3 @@
 # error-404-page
 
-test to create a error 404 page using HTML semantics and CSS.
+test to create an error 404 page using HTML semantics and CSS.
